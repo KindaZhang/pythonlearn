@@ -43,16 +43,13 @@ print(sum(digits))
 squares = [value**2 for value in range(1,11)]
 print(square)
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+ 
 #range()函数，两个参数，开始数字，结束数字，取值[开始数字，结束数字），正整数
 #第三个参数--步长，指的是两个数字的间隔
 # ** 代表的是平方
