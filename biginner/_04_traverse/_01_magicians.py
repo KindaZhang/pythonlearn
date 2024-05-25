@@ -66,7 +66,7 @@ for magician in magicians
     print(magician)
     
 """
-
+ 
 #for循环，在magicians内取出元素存在变量magician中，然后打印变量的值
 #变量的名字可以任意取，但一般取的比较有意义
 #不需要和c一样的大括号，用缩进代替大括号，即缩进的内容是循环的一部分
