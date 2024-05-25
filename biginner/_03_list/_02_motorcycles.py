@@ -65,6 +65,11 @@ motorcycles.remove(too_expensive)
 print(motorcycles)
 print("\nA "+too_expensive.title()+" is too expensive for me.")
 
+
+
+
+
+
 #用赋值的方法改变列表的元素
 #append()将元素添加列表末尾，也可以创建一个空列表在进行添加元素
 #insert()函数，有两个参数，第一个参数是索引，第二个参数是添加内容,后面元素自动顺延
