@@ -36,6 +36,8 @@ print(len(cars))
 
 
 
+
+
 #sort()函数是排序，按从小到大排序，升序
 #永久改变排列顺序 
 #参数reverse默认是false，升序；true，降序；
